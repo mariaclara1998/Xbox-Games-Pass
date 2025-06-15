@@ -1,2 +1,4 @@
 # Xbox-Games-Pass
-REPOSITÓRIO CRIADO PARA ENTREGAR O PROJETO DA DIO
+A dashboard criada visa aplicar os conceitos aprendidos no curso “Excel com inteligência artificial”, focando na visualização de dados de assinaturas do Xbox Game Pass. Dessa forma, o quadro “Total subscriptions Xbox game” responde à questão do total faturado com vendas de planos anuais, separando os que são ou não auto renováveis, bem como mostra a soma dessas duas modalidades. 
+Vale ressaltar que a interface é personalizada para que o usuário escolha qual tipo de plano deseja analisar (anual, mensal, trimestral), se assim desejar.
+Ademais, para responder o total faturado com as vendas do EA Play Season Pass, utilizou-se o conceito de Big Numbers, que significa um numero exibido em um cartão, pois o EA Play é um adicional que somente está disponível para assinantes da modalidade Ultimate. Esse conceito também foi essencial para responder o total faturado com as vendas do Minecraft Season Pass. Esse tipo de adicional de assinatura está disponível em duas modalidades: Standard e Ultimate. Por essa razão, o número do cartão é referente ao total geral, independente do plano.  
